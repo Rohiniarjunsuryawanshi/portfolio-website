@@ -1,0 +1,13 @@
+body {
+font-family: Arial;                                /* Sets the font style of the whole page */
+background-color: #f4f4f4;                       /* Light gray background color */
+text-align: center;                                /* Aligns all text to center */
+}
+
+h1 {
+color: #2c3e50;                                 /* Sets dark blue/gray color for main heading */
+}
+
+h2 {
+color: #3498db;                                  /* Sets blue color for subheadings */
+}
